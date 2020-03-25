@@ -14,3 +14,5 @@ install:
 script:
   # Check the role/playbook's syntax.
   - make html
+  - echo ${TEST}
+  - echo ${TEST2}
