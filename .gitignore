@@ -130,4 +130,4 @@ dmypy.json
 
 ## CUSTOM VALUES
 output/
-./pelicaconf-local.py
+pelicanconf-local.py
