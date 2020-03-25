@@ -1,0 +1,18 @@
+---
+sudo: required
+dist: trusty
+
+language: python
+python: "3.6.9"
+
+# Doc: https://docs.travis-ci.com/user/customizing-the-build#Build-Matrix
+
+before_install:
+  - sudo apt-get update -qq
+
+install:
+  - pip install pelican Markdown typogrify
+
+script:
+  # Check the role/playbook's syntax.
+  - make html
