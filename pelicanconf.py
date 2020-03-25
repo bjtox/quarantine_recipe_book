@@ -47,7 +47,7 @@ ARTICLE_SAVE_AS = 'category/{category}/{slug}/index.html'
 PAGE_URL = 'pages/{slug}/'
 PAGE_SAVE_AS = 'pages/{slug}/index.html'
 
-THEME = '..'
+THEME = 'themes/jojo'
 
 SOCIAL = {
     'style': {
