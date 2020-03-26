@@ -23,5 +23,6 @@ deploy:
   skip_cleanup: true
   local-dir: output
   acl: public_read
+  region: eu-west-1
   on:
-    branch: master
+    branch: feature/test_ci_publish
