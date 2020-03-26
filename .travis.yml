@@ -24,4 +24,4 @@ deploy:
   local-dir: output
   acl: public_read
   on:
-    branch: feature/test_ci_publish
+    branch: master
