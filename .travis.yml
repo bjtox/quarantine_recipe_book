@@ -22,5 +22,6 @@ deploy:
   bucket: "recipe-book-hosting-bitonti"
   skip_cleanup: true
   local-dir: output
+  acl: public_read
   on:
     branch: feature/test_ci_publish
