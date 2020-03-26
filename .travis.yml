@@ -12,7 +12,6 @@ install:
   - pip install pelican Markdown typogrify
 
 script:
-  # Check the role/playbook's syntax.
   - make html
 
 deploy:
