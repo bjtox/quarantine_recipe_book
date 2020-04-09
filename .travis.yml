@@ -21,7 +21,7 @@ deploy:
   bucket: "web-recipe-book-616655032796"
   skip_cleanup: true
   local-dir: output
-  acl: public_read
+  acl: private
   region: eu-west-1
   on:
     branch: master
