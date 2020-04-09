@@ -5,7 +5,7 @@ import os
 
 AUTHOR = 'Antonio Bitonti'
 SITENAME = 'Il Ricettario'
-SITEURL = 'http://d81qycyh67me9.cloudfront.net/'
+SITEURL = ''
 
 PATH = 'content'
 
@@ -55,13 +55,37 @@ SOCIAL = {
         'hover': True,    # True, False
         'button': False,  # True, False
     },
+    # for SOCIAL, jojo supports uk-icon in uikit2
+    # but jojo only recover following icons' color
     'icons': (
+        # ('envelope-square', '#'),
         ('facebook-square', 'https://www.facebook.com/BiToX'),
         ('github-square', 'https://github.com/bjtox'),
+        ('instagram-square', 'https://www.instagram.com/ab_bito'),
+        # ('linkedin-square', '#'),
+        # ('skype', '#'),
+        # ('twitter-square', '#'),
+        # ('weixin', '#'),
     )
 }
 
 NEWEST_ARTICLES = 10 # set 0 to hide this panel
+
+# SIMPLE_PANELS = (
+#     {
+#         'badge': {
+#             'string': 'Love',
+#             # type can be specified as '' or 'success' or 'warning' or 'danger'
+#             # by default, '' is blue, 'success' is green, 'warning' is orange and 'danger' is red
+#             # please reference to uikit2
+#             'type': 'danger',
+#         },
+#         'title': 'My Favorite Food',
+#         'photo': 'food.jpg',
+#         'content': 'I really love it!',
+#         'link': ('Where to eat it?', '#'),
+#     },
+# )
 
 # left side buttons
 SHARE_BUTTONS = True
@@ -70,6 +94,13 @@ CONTROL_BUTTONS = True
 AUTHOR_INFO = {
     'id': AUTHOR,
     'photo': 'io.jpg',
+    # 'intro_keywords': (
+    #     ('a cute dog', '#'),
+    #     ('a charming blogger', '#'),
+    # ),
+    # 'intro': [
+    #     'Hi, my name is jojo, I am a cute dog!'
+    # ],
     'url': os.path.join(SITEURL, 'pages', 'about-me'),
     'social': SOCIAL,
 }
@@ -88,6 +119,7 @@ NAV = {
                 {'link':('Contorni', os.path.join(SITEURL, 'category', 'contorni.html')) },
                 {'link':('Dolci', os.path.join(SITEURL, 'category', 'dolci.html')) },
                 {'link':('Svuotafrigo', os.path.join(SITEURL, 'category', 'svuotafrigo.html')) },
+                {'link':('Varie', os.path.join(SITEURL, 'category', 'varie.html')) },
                 {'type':'divider'},
                 {'link':('misc', os.path.join(SITEURL, 'category', 'misc.html'))},
             )
