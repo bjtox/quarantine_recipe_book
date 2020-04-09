@@ -3,7 +3,7 @@ Date: 2020-03-26 02:00
 Category: Varie
 Tags: Pizza, Pomodoro, Asporto, Mozzarella, Farina, Lievito
 Authors: Antonio Bitonti
-Summary: Quando la fame e tante e la voglia è ZERO.
+Summary: Quando la fame è tanta e la voglia è ZERO.
 
 
 <div class="uk-thumbnail uk-thumbnail-small">
@@ -28,7 +28,7 @@ Da 40 a 60 Minuti (dipende dalla pizzeria)
 
 #### Come fare
 1. Prendete il vostro Cellulare
-2. Aprite la vostra app di delivery preferita e selezionate la vostra pizzeria preferita
+2. Aprite la vostra app di delivery preferita e selezionate la vostra pizzeria
 3. Scegliete la Pizza
 4. Scegliete il vostro metodo di pagamento preferito.
 
