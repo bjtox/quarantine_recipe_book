@@ -41,7 +41,7 @@ DISPLAY_CATEGORIES_ON_MENU = True
 STATIC_PATHS = ['images', 'articles']
 
 ARTICLE_PATHS = ['articles']
-ARTICLE_URL = 'category/{category}/{slug}/'
+ARTICLE_URL = 'category/{category}/{slug}/index.html'
 ARTICLE_SAVE_AS = 'category/{category}/{slug}/index.html'
 
 PAGE_URL = 'pages/{slug}/'
