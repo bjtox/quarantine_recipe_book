@@ -5,7 +5,7 @@ import os
 
 AUTHOR = 'Antonio Bitonti'
 SITENAME = 'Il Ricettario'
-SITEURL = 'http://recipe-book-hosting-bitonti.s3-website-eu-west-1.amazonaws.com'
+SITEURL = 'http://d81qycyh67me9.cloudfront.net/'
 
 PATH = 'content'
 
