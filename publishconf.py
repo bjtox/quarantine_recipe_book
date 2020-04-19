@@ -19,6 +19,10 @@ CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
 
+HOSTED_ON = {
+    "name": "AWS",
+    "url": "https://www.aws.com/"
+    }
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""

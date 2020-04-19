@@ -5,13 +5,15 @@ Tags: Zucca, Porri, Zuppa, Vellutata, Crostini, Inverno
 Authors: Antonio Bitonti
 Summary: Calda e Nutriente vellutata per le serate Invernali.
 
+[TOC]
 
 <div class="uk-thumbnail uk-thumbnail-small">
     <img src="{attach}images/shallow-focus-photography-of-squash-soup-1277483.jpg" alt="Foto di Valeria Boltneva da Pexels">
-    
+
 </div>
 
-### Ingredienti per 4 persone
+###### Ingredienti
+per 4 persone
 
 - Zucca **400g**
 - Porri **150g** (1 porro)
@@ -22,10 +24,10 @@ Summary: Calda e Nutriente vellutata per le serate Invernali.
 - Olio EVO  **1 Cucchiaio**
 - Brodo o Acqua **500ml**
 
-#### Tempo
+###### Tempo
 Preparazione 40 Minuti
 
-#### Utensili Consigliati
+###### Utensili Consigliati
 - Tagliere
 - Coltello Tranciante
 - Robot da Cucina (opzionale)
@@ -34,7 +36,7 @@ Preparazione 40 Minuti
 - Mestolo
 - MiniPimer
 
-#### Come fare
+###### Come fare
 1. Pulire la zucca rimuovento tutta la buccia esterna e con un cucchiaio rimuovere i semi all'interno.
 2. Tagliare La zucca a Dadi molto piccoli o in alternativa tritarla con con un robot da Cucina, e conservarli in una ciotola
 3. Pulire i porri e tagliarli a listelle, in alternativa si possono tritare con il robot.
@@ -45,6 +47,8 @@ Preparazione 40 Minuti
 8. Spegnere il fuoco e con il minipimer ad immmersione frullare il composto, in alternativa potete riversare tutto nel robot e frullarlo.
 9. Servite, se volete, con crostini o pasta corta oppure semplice senza nussa aggiunta.
 
-***Variante***: Se non avete i porri potete usare la **cipolla bianca**.
+!!! hint "Variante"
+
+    Se non avete i porri potete usare la **cipolla bianca**.
 
 Buon Appettito

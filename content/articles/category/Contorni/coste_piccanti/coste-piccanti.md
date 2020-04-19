@@ -1,12 +1,12 @@
 Title: Coste Piccanti
 Date: 2020-04-10 10:00
-Category: Varie
+Category: Contorni
 Tags: Verdura, Coste, Peperoncino
 Authors: Antonio Bitonti
 summary: Un Gustosissimo piatto veloce e leggero
-featured_image: http://oncrashreboot.com/images/article-1-image.jpg
-
-### Ingredienti per 4 persone
+[TOC]
+###### Ingredienti
+per 4 persone
 
 - Bietola da Costa 1 Cespo
 - Peperoncino 1
@@ -16,19 +16,19 @@ featured_image: http://oncrashreboot.com/images/article-1-image.jpg
 - Sale 5g
 - Pepe qb
 
-#### Tempo
+###### Tempo
 Tempo di preparazione 10 Minuti
 
 Tempo di cottura circa 25 minuti
 
-#### Utensili Consigliati
+###### Utensili Consigliati
 - Tagliere
 - Coltello
 - Padella
 - Cucchiaio legno/plastica
 
 
-#### Come fare
+###### Come fare
 1. Pulite e lavate le coste, rimuovete la base, le parti "ammaccate" e, se presenti, le foglie gialle che risulterebbero troppo amare
 2. Dividere i gambi dalle foglie e tagliarli a pezzi non troppo grandi, circa 3 o 4 cm e tenerli da parte
 3. Ripetere la stessa operazione per le foglie.
@@ -39,7 +39,7 @@ Tempo di cottura circa 25 minuti
 8. Lasciate cuocere con coperchio per circa 15-20 minuti aggiungendo poca acqua se la verdura vi sembra troppo asciutta
 
 
-### Informazioni utili
+###### Informazioni utili
 [Bietola a coste](https://www.alimentipedia.it/bietola-da-costa.html)
 
 [Sfumare con il Vino](https://www.agrodolce.it/2015/03/09/sfumare-con-il-vino/)

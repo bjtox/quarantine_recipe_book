@@ -5,6 +5,7 @@ Tags: Pizza, Pomodoro, Asporto, Mozzarella, Farina, Lievito
 Authors: Antonio Bitonti
 Summary: Quando la fame è tanta e la voglia è ZERO.
 
+[TOC]
 
 <div class="uk-thumbnail uk-thumbnail-small">
     <img src="{attach}images/nik-owens-40OJLYVWeeM-unsplash.jpg" alt="Photo by Nik Owens on Unsplash">
@@ -13,20 +14,20 @@ Summary: Quando la fame è tanta e la voglia è ZERO.
 </a>
 
 
-### Ingredienti per 4 persone
+###### Ingredienti
 
 - Cellulare
 - Applicazione di food Delivery o in alternativa Menù della vostra pizzeria di fiducia
 
-#### Tempo
+###### Tempo
 Da 40 a 60 Minuti (dipende dalla pizzeria)
 
-#### Utensili Consigliati
+###### Utensili Consigliati
 - Rotella per Pizza
 - Cartone
 
 
-#### Come fare
+###### Come fare
 1. Prendete il vostro Cellulare
 2. Aprite la vostra app di delivery preferita e selezionate la vostra pizzeria
 3. Scegliete la Pizza
@@ -34,6 +35,8 @@ Da 40 a 60 Minuti (dipende dalla pizzeria)
 
 NB: Se avete deciso di usare il menù cartaceo potete saltare il passaggio 1 e 2 e chiamare direttamente la pizzeria.
 
-***Variante***: Se ne avete la possibilità e volete uscire di casa per prendere la vostra cena potete recarvi alla pizzeria di vostro gradimento e modificare la ricetta in **PIZZA D'ASPORTO**.
+!!! hint "Variante"
+
+    Se ne avete la possibilità e volete uscire di casa per prendere la vostra cena potete recarvi alla pizzeria di vostro gradimento e modificare la ricetta in **PIZZA D'ASPORTO**.
 
 Buon Appettito
