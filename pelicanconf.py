@@ -124,9 +124,9 @@ FOOTER = {
 }
 
 TAGS_URL = "tags"
-CATEGORIES_URL = "categories"
-ARCHIVES_URL = "archives"
-SEARCH_URL = "search"
+CATEGORIES_URL = "categories.html"
+ARCHIVES_URL = "archives.html"
+SEARCH_URL = "search.html"
 
 
 PLUGIN_PATH = 'plugins/'
