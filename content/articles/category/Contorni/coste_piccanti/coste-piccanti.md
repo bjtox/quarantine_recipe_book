@@ -3,7 +3,8 @@ Date: 2020-04-10 10:00
 Category: Varie
 Tags: Verdura, Coste, Peperoncino
 Authors: Antonio Bitonti
-Summary: Un Gustosissimo piatto veloce e leggero
+summary: Un Gustosissimo piatto veloce e leggero
+featured_image: http://oncrashreboot.com/images/article-1-image.jpg
 
 ### Ingredienti per 4 persone
 

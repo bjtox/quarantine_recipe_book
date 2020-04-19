@@ -41,33 +41,19 @@ DISPLAY_CATEGORIES_ON_MENU = True
 STATIC_PATHS = ['images', 'articles']
 
 ARTICLE_PATHS = ['articles']
-ARTICLE_URL = 'category/{category}/{slug}/index.html'
-ARTICLE_SAVE_AS = 'category/{category}/{slug}/index.html'
+ARTICLE_URL = 'article/{category}/{slug}/index.html'
+ARTICLE_SAVE_AS = 'article/{category}/{slug}/index.html'
 
 PAGE_URL = 'pages/{slug}/'
 PAGE_SAVE_AS = 'pages/{slug}/index.html'
 
-THEME = 'themes/jojo_custom'
+THEME = 'themes/pelican-elegant'
 
-SOCIAL = {
-    'style': {
-        'size': 'medium', # small, medium, large
-        'hover': True,    # True, False
-        'button': False,  # True, False
-    },
-    # for SOCIAL, jojo supports uk-icon in uikit2
-    # but jojo only recover following icons' color
-    'icons': (
-        # ('envelope-square', '#'),
-        ('facebook-square', 'https://www.facebook.com/BiToX'),
-        ('github-square', 'https://github.com/bjtox'),
-        ('instagram-square', 'https://www.instagram.com/ab_bito'),
-        # ('linkedin-square', '#'),
-        # ('skype', '#'),
-        # ('twitter-square', '#'),
-        # ('weixin', '#'),
-    )
-}
+SOCIAL = (
+    ('Email', 'antonio.bitonti@gmail.com', 'My Email Address'),
+    ("Github", "https://github.com/bjtox", "My GitHubSpace"),
+    ("Facebook", "https://www.facebook.com/BiToX"),
+)
 
 NEWEST_ARTICLES = 10 # set 0 to hide this panel
 
@@ -136,3 +122,14 @@ FOOTER = {
         'link': 'https://opensource.org/licenses/MIT',
     }
 }
+
+TAGS_URL = "tags"
+CATEGORIES_URL = "categories"
+ARCHIVES_URL = "archives"
+SEARCH_URL = "search"
+
+
+PLUGIN_PATH = 'plugins/'
+PLUGINS = ['tipue_search',]
+
+SOCIAL_PROFILE_LABEL = 'Contatti'
