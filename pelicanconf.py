@@ -123,7 +123,7 @@ FOOTER = {
     }
 }
 
-TAGS_URL = "tags"
+TAGS_URL = "tags.html"
 CATEGORIES_URL = "categories.html"
 ARCHIVES_URL = "archives.html"
 SEARCH_URL = "search.html"
