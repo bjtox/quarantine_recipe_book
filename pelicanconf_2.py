@@ -78,3 +78,20 @@ MARKDOWN = {
     'markdown.extensions.admonition': {}
   }
 }
+
+HOSTED_ON = {
+    "name": "AWS",
+    "url": "https://www.aws.com/"
+    }
+
+PRIVACY_POLICY = 'true'
+COOKIE_SOLUTION = 'true'
+
+FOOTER = {
+    'year': 2020,
+    'author': AUTHOR,
+    'license': {
+        'name': 'The MIT License',
+        'link': 'https://opensource.org/licenses/MIT',
+    }
+}
