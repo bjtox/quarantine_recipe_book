@@ -50,6 +50,9 @@
         {% include '_includes/feeds.html' %}
         {% endblock feed_links %}
         {% include '_includes/analytics.html' %}
+        {% if COOKIE_SOLUTION %}
+        {% include '_includes/cookie_solution.html' %}
+        {% endif %}
     </head>
     <body>
         <div id="content">

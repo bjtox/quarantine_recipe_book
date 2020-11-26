@@ -1,4 +1,9 @@
 <footer>
+    {% if PRIVACY_POLICY  == "true" %}
+    <div>
+        <a href="https://www.iubenda.com/privacy-policy/99261123" class="iubenda-white iubenda-embed" title="Privacy Policy ">Privacy Policy</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
+    </div>
+    {% endif %}
     {% from '_includes/_defaults.html' import SITE_LICENSE with context %}
     {% if SITE_LICENSE %}
     <div>
@@ -33,9 +38,12 @@
         <a href={{ HOSTED_ON.url }} target="_blank" rel="nofollow noopener noreferrer">
             {{ HOSTED_ON.name }}
         </a>
+
         {% else %}
         {{ HOSTED_ON.name }}
         {% endif %}
         {% endif %}
+        
+        
     </div>
 </footer>
