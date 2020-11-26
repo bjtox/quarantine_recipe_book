@@ -71,6 +71,9 @@ PLUGINS = ['tipue_search','extract_toc']
 
 SOCIAL_PROFILE_LABEL = 'Contatti'
 
+PRIVACY_POLICY = 'true'
+COOKIE_SOLUTION = 'true'
+
 MARKDOWN = {
   'extension_configs': {
     'markdown.extensions.toc': {},
