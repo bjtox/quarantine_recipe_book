@@ -4,4 +4,13 @@
     background-position: left top;
     background-repeat: repeat;
     padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#recipe_photo {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
