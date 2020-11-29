@@ -12,13 +12,17 @@ Summary: un piccolo trucchetto per consumare cosa rimane in frigo.
 </div>
 <div>
 Immagine di <a href="https://pixabay.com/es/users/jorgereynal-7968716/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3463479">Jorge Reynal</a> su <a href="https://pixabay.com/es/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3463479">Pixabay</a>
-</div>
+</div><br>
+
+
+
 
 Perchè "volevo essere una quiche", mi capita occasionalemnte di fare la spesa e di trovare i Frigoriferi con i prodotti in scadenza e spesso si trovano la pasta sfoglia o la pasta brisee in offerta perchè in scadenza.
 Questo le rende delle ottime basi per delle torte salate che possiamo usare come "svuota Frigo". Questa non è la vera quiche Lorainne, quindi chiedo scusa ai puristi se si sentono offesi da questa ricetta. questa è la mia versione, A breve verranno pubblicate anche la ricetta della pasta sfoglia e della brisee.
 
 ###### Ingredienti
 per stampo rotondo di circa 26cm
+
 - pasta brisee / Sfoglia **1 disco**
 - uova **3**
 - Latte Intero **150 ml / 1 bicchiere**
