@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 import os
 
-AUTHORS = 'Antonio Bitonti'
+AUTHOR = 'Antonio Bitonti'
 SITENAME = 'Il Ricettario'
 SITEURL = ''
 
