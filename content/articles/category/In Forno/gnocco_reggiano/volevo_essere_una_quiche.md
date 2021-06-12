@@ -12,6 +12,7 @@ Fermi tutti, mettete via i forconi. Non ho trovato la ricetta "originale" del gn
 
 ###### Ingredienti
 Per uno stampo di gnocco da circa 1kg
+
 - Farina 0 **600 g**
 - Latte **300 ml**
 - acqua **100 ml**
