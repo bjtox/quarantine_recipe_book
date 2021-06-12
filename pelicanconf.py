@@ -80,3 +80,8 @@ MARKDOWN = {
     'markdown.extensions.admonition': {}
   }
 }
+
+AUTHORS = {
+    "Antonio Bitonti": {
+    }
+}
