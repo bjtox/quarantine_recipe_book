@@ -66,7 +66,7 @@ ARCHIVES_URL = "archives.html"
 SEARCH_URL = "search.html"
 
 
-PLUGIN_PATH = 'plugins/'
+PLUGIN_PATHS = 'plugins/'
 PLUGINS = ['tipue_search','extract_toc']
 
 SOCIAL_PROFILE_LABEL = 'Contatti'
@@ -79,4 +79,9 @@ MARKDOWN = {
     'markdown.extensions.toc': {},
     'markdown.extensions.admonition': {}
   }
+}
+
+AUTHORS = {
+    "Antonio Bitonti": {
+    }
 }
