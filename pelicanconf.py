@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 import os
 
-AUTHOR = 'Antonio Bitonti'
+AUTHORS = 'Antonio Bitonti'
 SITENAME = 'Il Ricettario'
 SITEURL = ''
 
@@ -66,7 +66,7 @@ ARCHIVES_URL = "archives.html"
 SEARCH_URL = "search.html"
 
 
-PLUGIN_PATH = 'plugins/'
+PLUGIN_PATHS = 'plugins/'
 PLUGINS = ['tipue_search','extract_toc']
 
 SOCIAL_PROFILE_LABEL = 'Contatti'
