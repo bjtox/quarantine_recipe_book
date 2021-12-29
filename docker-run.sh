@@ -7,7 +7,7 @@ docker run \
     --volume $(pwd)/content:/input \
     --volume $(pwd)/output:/output \
     --volume $(pwd)/themes/pelican-elegant-custom:/theme \
-    pelican_local:v1 pelican /input -o /output -t /theme -s /site/pelicanconf_2.py
+    pelican_local:v1.0.1 pelican /input -o /output -t /theme -s /site/pelicanconf_2.py
 
 docker run \
     --rm \
@@ -17,4 +17,4 @@ docker run \
     --volume $(pwd)/content:/input \
     --volume $(pwd)/output:/output \
     --volume $(pwd)/themes/pelican-elegant-custom:/theme \
-    pelican_local:v1 pelican /input -o /output -t /theme -s /site/pelicanconf_2.py --listen
+    pelican_local:v1.0.1 pelican /input -o /output -t /theme -s /site/pelicanconf_2.py -b 0.0.0.0 --listen
